@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Okwach8
 - 👀 I’m interested in backend development 
-- 🌱 I’m currently learning Java and Python
+- 🌱 I’m currently learning PHP and Python
 - 📫 How to reach me westher188@gmail.com
 
 <!---
